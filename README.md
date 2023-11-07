@@ -1,9 +1,9 @@
-- Hi, I’m @drigorleite!
-- I'm learning how to code since mar/2021 by myself. 
-- I’m currently learning Python and HTML5
-- I’m looking to collaborate on with others devs 
+- Hi, I’m @drigorleite! I'm a brazilian guy who is now in United States. I love playing tennis, finish a code that took me a lot of hours and be with my family.
+- I'm studying Computer Programming at Lake Michigan College.
+- I’m currently learning C++ and JavaScript and I'm fluent in Python
+- I’m looking to collaborate on with others devs and learn with them
 - How to reach me: rribeiro_leite@hotmail.com
-- 21/22 Goals: Learn how to code perfectly and get a job in the area
+- 24/25 Goals: Find my first internship in my field area (dev)
 
 
 
