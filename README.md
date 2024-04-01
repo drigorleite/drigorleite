@@ -2,7 +2,7 @@
 - I'm studying Computer Programming at Lake Michigan College.
 - I’m currently learning C++ and JavaScript and I'm fluent in Python
 - I’m looking to collaborate on with others devs and learn with them
-- How to reach me: rribeiro_leite@hotmail.com
+- How to reach me: rleite_dev@outlook.com
 - 24/25 Goals: Find my first internship in my field area (dev)
 
 
