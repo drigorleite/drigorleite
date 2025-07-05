@@ -22,7 +22,7 @@
 ## 🎯 2024-2025 Goals
 | Goal | Target Date | Status |
 |------|-------------|--------|
-| 🎓 Graduate with honors | May 2025 | 🟡 In progress |
+| 🎓 Graduate with honors | Dec 2025 | 🟡 In progress |
 | 🛠 Build a **tennis-community web app** that makes scheduling matches & tracking stats effortless | 2025 | 🟡 Ideation |
 | 🤝 Contribute to open-source projects aligned with accessibility & sports-tech | Ongoing | 🟢 Always open |
 | 🌱 Publish monthly learning logs & tutorials | Monthly | 🟡 2/12 |
