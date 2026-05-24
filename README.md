@@ -1,41 +1,92 @@
-# 👋 Hey there! I’m **Rodrigo Leite** &nbsp;`(@drigorleite)`
+# 👋 Hey, I’m Rodrigo Leite (@drigorleite)
 
-🇧🇷 Brazilian • 📍 Michigan, USA  
-🧑‍💻 Applications Development student @ **Lake Michigan College**
+🇧🇷 Brazilian Developer based in Michigan, USA  
+💻 Frontend-Focused Full Stack Developer  
+🚀 Building SaaS products, modern web applications, and scalable user experiences
 
----
-
-## 🚀 About Me
-- 🎾 **Tennis addict** who loves the adrenaline of a close match *and* of debugging a stubborn bug.  
-- 💻 Passionate about building **clean, purposeful web apps**—code that solves real problems.  
-- 👨‍👩‍👧‍👦 Family-first mindset; balance fuels creativity.
+🌐 Portfolio: https://rodrigoleite.netlify.app/  
+🔗 FlipWise: https://flipwiseapp.com
 
 ---
 
-## 🎓 Current Focus
-- Finishing my **Associate Degree in Applications Development** (2025).  
-- Deep-diving into **JavaScript, Python, Node.js**, and modern CSS frameworks.  
-- Shipping side-projects that mix **sports tech** and **human-centered design**.
+# 🚀 About Me
+
+I’m a frontend-focused full stack developer passionate about building real-world software products that solve operational problems and create meaningful user experiences.
+
+My main project is FlipWise, a SaaS platform designed for construction workforce and property management operations, including:
+- payroll workflows,
+- timesheets,
+- expenses,
+- worker management,
+- authentication systems,
+- Stripe billing,
+- and PWA/mobile-ready architecture.
+
+I enjoy combining:
+- clean UI/UX,
+- scalable backend systems,
+- product thinking,
+- and modern development workflows.
+
+Beyond software, I also manage residential renovation and property projects, which strengthened my adaptability, operational thinking, and problem-solving mindset.
 
 ---
 
-## 🎯 2024-2025 Goals
-| Goal | Target Date | Status |
-|------|-------------|--------|
-| 🎓 Graduate with honors | Dec 2025 | 🟡 In progress |
-| 🛠 Build a **tennis-community web app** that makes scheduling matches & tracking stats effortless | 2025 | 🟡 Ideation |
-| 🤝 Contribute to open-source projects aligned with accessibility & sports-tech | Ongoing | 🟢 Always open |
-| 🌱 Publish monthly learning logs & tutorials | Monthly | 🟡 2/12 |
+# 🛠 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express
+- tRPC
+- REST APIs
+
+### Database & Cloud
+- Supabase
+- Firebase
+- MySQL
+- PostgreSQL
+- Drizzle ORM
+
+### SaaS & Infrastructure
+- Stripe Integration
+- Authentication Systems
+- RBAC Authorization
+- Progressive Web Apps (PWA)
 
 ---
 
-## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/drigorleite)
-[![GitHub Followers](https://img.shields.io/github/followers/drigorleite?label=Follow&style=social)](https://github.com/drigorleite)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your_handle) <!-- if you use Twitter -->
+# 🎓 Education
 
-📫 **rleite_dev@outlook.com**
+🎓 Applications Development — Lake Michigan College (2025)  
+🎓 Information Technology Management — Anhembi Morumbi University (2023)
 
 ---
 
-> *“I don’t just write code—I craft solutions that serve users and spark joy.”*
+# 🎯 Current Focus
+
+- Building scalable SaaS applications
+- Improving frontend architecture & UX
+- Learning more about AI-enhanced development workflows
+- Expanding into mobile/PWA deployment
+- Strengthening backend architecture and security
+
+---
+
+# 🤝 Connect With Me
+
+Portfolio
+LinkedIn
+GitHub Followers
+
+📫 rleite_dev@outlook.com
+
+---
+
+> “I enjoy building products that combine functionality, clean design, and real-world impact.”
